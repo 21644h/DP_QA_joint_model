@@ -29,7 +29,7 @@ python run_molweni_mdfn.py \
 --warmup_step 100
 ```
 
-The dataset Molweni can be downloaded from https://github.com/HIT-SCIR/Molweni. You can run the code with a shell like example_shell.sh. The parameter 'task' refers to the model to run: 0----multi-tasking model, 1----QA-only model, 2----DP-only model.
+The dataset Molweni can be downloaded from https://github.com/HIT-SCIR/Molweni. The parameter 'task' refers to the model to run: 0----multi-tasking model, 1----QA-only model, 2----DP-only model.
 
 ## Reference
 If you use this code please cite our paper:
