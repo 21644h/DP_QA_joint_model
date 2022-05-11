@@ -34,12 +34,11 @@ The dataset Molweni can be downloaded from https://github.com/HIT-SCIR/Molweni. 
 ## Reference
 If you use this code please cite our paper:
 ```
-@misc{he2021multitasking,
- archiveprefix = {arXiv},
- author = {Yuchen He and Zhuosheng Zhang and Hai Zhao},
- eprint = {2110.03269},
- primaryclass = {cs.CL},
- title = {Multi-tasking Dialogue Comprehension with Discourse Parsing},
- year = {2021}
+@inproceedings{he2021multi,
+  title={Multi-tasking Dialogue Comprehension with Discourse Parsing},
+  author={He, Yuchen and Zhang, Zhuosheng and Zhao, Hai},
+  booktitle={Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation},
+  pages={69--79},
+  year={2021}
 }
 ```
